@@ -131,4 +131,4 @@ Write your own steps here.
 ![OUTPUT](out2.png)
 
 ## Result:
-Write your result
+The program for designing book cover page using HTML and CSS is executed successfully
